@@ -35,18 +35,20 @@
   <li>HTML5</li>
   <li>CSS3</li>
   <li>JavaScript</li>
+  <li>PHP</li>
   <li>Promise API</li>
   <li>Web Storage API</li>
   <li>Canvas API</li>
   <li>Axios</li>
   <li>Fetch</li>
+  <li>NodeJS</li>
+  <li>Node API</li>
   <li>VueJS</li>
   <li>ESLint</li>
   <li>Prettier</li>
   <li>Swiper</li>
   <li>Classnames</li>
   <li>Styled Components</li>
-  <li>PHP</li>
   <li>RestAPI</li>
   <li>MVC</li>
   <li>GraphQL</li>
