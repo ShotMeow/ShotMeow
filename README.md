@@ -40,6 +40,7 @@
   <li>Canvas API</li>
   <li>Axios</li>
   <li>Fetch</li>
+  <li>VueJS</li>
   <li>ESLint</li>
   <li>Prettier</li>
   <li>Swiper</li>
