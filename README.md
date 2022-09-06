@@ -58,6 +58,7 @@
   <li>Photoshop</li>
   <li>After Effects</li>
 </ul>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shotmeow&layout=compact"></div>
 
 <h2 align="center">Профессиональный опыт</h2>
 
