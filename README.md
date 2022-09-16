@@ -26,7 +26,7 @@
   <li>NextJS</li>
   <li>SASS (SCSS)</li>
   <li>TailwindCSS</li>
-  <li>Redux Toolkit</li>
+  <li>Redux Toolkit || MobX</li>
   <li>Headless UI</li>
   <li>React</li>
 </ul>
