@@ -7,52 +7,78 @@
 
 <h2 align="center">Обо мне</h2>
 <p>
-  На данный момент живу в <strong>г. Сергиев Посад, Московская область</strong> и параллельно учусь в <strong>ГБПОУ МО "Сергиево-Посадский колледж"</strong>.
+  Всем привет! Меня зовут <strong>Данила</strong>, мне <strong>19 лет</strong>. Проживаю в городе <strong>Сергиев Посад</strong>. <strong>С 14 лет увлекаюсь веб-разработкой.</strong>
 </p>
 <p>
-  Начал увлекаться веб-разработкой в 14 лет. Тогда мой друг купил книги-самоучитель по HTML & CSS и JavaScript и дал мне почитать их. Так я прочитал полностью обе книги и я захотел ещё! Я самостоятельно начал искать информацию в интернете, проходить множество бесплатных и платных курсов. Я поставил себе цель, стать специалистом в сфере веб-технологий. После изучения продвинутого JavaScript я перешёл к изучению VueJS, но по личным предпочтениям быстро поменял приоритеты в сторону React. Я старался изучать всю его экосистему. Хуки, Best Practices, Redux Toolkit, Redux Persist, React-Hook-Form. После перешёл на NextJS и по сей день даю предпочтение разработке именно на данном фреймворке.
+  Имеется стаж работы в IT-компании на позиции UX/UI Designer. Являюсь участником движения WorldSkills в направлении веб-разработки. 2 года работал преподавателем веб-разработки в онлайн-школе.
+</p>
+<p>
+  Имеется большой опыт работы с PHP и фреймворком Laravel. Большое портфолио дизайнера, в связи с моей прошлой работой и увлечением дизайном.
+</p>
+<p>
+  Имею хорошее понимание работы стека протоколов TCP/IP. Как работает интернет. Разницу протоколов HTTP, HTTP/2, HTTP/3. Знаком с особенностями протокола HTTPS и SSL. Есть опыт настройки и регистрации сертификатов.
+</p>
+<p>
+  Имею хорошие теоретические и практические знания, а так-же понимание особенностей языка программирования JavaScript.
 </p>
 
 <p>Помимо моего основного направления так-же увлекаюсь UX/UI дизайном и разработкой серверной части.</p>
 
+<p>
+  Знаком с FrontOps'ом. Умею работать с линтерами (ESLint, Stylelint). Умею работать со сборщиками (Webpack), с транскомпиляторами (Babel).  
+</p>
+
+<p>
+  Имею хорошие знания в системе управления версиями Git. Работал с такими сервисами, как GitHub и GitLab. Знакомо понятие CI/CD.
+</p>
+
+<p>
+  Уверенно работаю с API с использованием Promises, Async/await. Знаю как работает Event Loop. Для запросов использую fetch или axios.
+</p>
+
+<p>
+  Умею работать с системами Linux. Умею работать, настраивать VPS/VDS. Умею работать с Nginx.
+</p>
+
+<p>
+  Для работы использую React, Typescript, Next.js, Redux Toolkit, TailwindCSS, SCSS и другие технологии. Зависит от поставленной задачи.
+</p>
+
 <h2 align="center">Используемые технологии</h2>
-<h3>Основные технологии (Что я чаще всего использую)</h3>
+<h3>Для работы использую</h3>
 <ul>
-  <li>TypeScript</li>
-  <li>NextJS</li>
-  <li>SASS (SCSS)</li>
-  <li>TailwindCSS</li>
-  <li>Redux Toolkit || MobX</li>
-  <li>Headless UI</li>
   <li>React</li>
+  <li>Next.js</li>
+  <li>TypeScript</li>
+  <li>SCSS</li>
+  <li>TailwindCSS</li>
+  <li>Redux Toolkit</li>
+  <li>...</li>
 </ul>
-<h3>Дополнительные технологии (Навыки, которыми я владею)</h3>
+<h3>Так-же я знаком со следующим перечнем технологий, с которыми уверенно работаю</h3>
 <ul>
+  <li>MobX</li>
   <li>HTML5</li>
   <li>CSS3</li>
-  <li>JavaScript</li>
   <li>PHP</li>
-  <li>Promise API</li>
-  <li>Web Storage API</li>
-  <li>Canvas API</li>
-  <li>Axios</li>
-  <li>Fetch</li>
+  <li>Laravel</li>
+  <li>Firebase</li>
   <li>NodeJS</li>
-  <li>Node API</li>
-  <li>VueJS</li>
+  <li>Git</li>
+  <li>JavaScript</li>
   <li>ESLint</li>
   <li>Prettier</li>
-  <li>Swiper</li>
-  <li>Classnames</li>
-  <li>Styled Components</li>
-  <li>RestAPI</li>
-  <li>MVC</li>
-  <li>GraphQL</li>
-  <li>Laravel</li>
+  <li>Stylelint</li>
   <li>NestJS</li>
   <li>Figma</li>
-  <li>Photoshop</li>
-  <li>After Effects</li>
+  <li>Styled Components</li>
+  <li>Headless UI</li>
+  <li>Ant Design</li>
+  <li>Material UI</li>
+  <li>Swiper</li>
+  <li>Classnames</li>
+  <li>Webpack</li>
+  <li>Babel</li>
 </ul>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shotmeow&layout=compact"></div>
 
