@@ -80,6 +80,8 @@
   <li>Webpack</li>
   <li>Babel</li>
   <li>Electron</li>
+  <li>Linux</li>
+  <li>Nginx</li>
 </ul>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shotmeow&layout=compact"></div>
 
