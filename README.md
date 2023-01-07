@@ -41,6 +41,22 @@
 </p>
 
 <p>
+  Знаком с понятием оффлайн. Умею работать с Web Workers, Service Workers, Cache API
+</p>
+
+<p>
+  Умею работать с технологией PWA (Progressive Web Application).
+</p>
+
+<p>
+  Умею работать с доступностью в веб-приложениях. Screen Readers, VoiceOver. Анализ доступности в Lighthouse
+</p>
+
+<p>
+  Знаком с локализацией веб-приложений. Работал с технологией Intl. Использовал на практике l18next и Localazy.
+</p>
+
+<p>
   Для работы использую React, Typescript, Next.js, Redux Toolkit, TailwindCSS, SCSS и другие технологии. Зависит от поставленной задачи.
 </p>
 
