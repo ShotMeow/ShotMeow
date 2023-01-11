@@ -57,7 +57,7 @@
 </p>
 
 <p>
-  Для работы использую React, Typescript, Next.js, Redux Toolkit, TailwindCSS, SCSS и другие технологии. Зависит от поставленной задачи.
+  Для работы использую React, Typescript, Next.js, Redux Toolkit, TailwindCSS, SCSS и другие технологии, зависящие от поставленной задачи.
 </p>
 
 <h2 align="center">Используемые технологии</h2>
