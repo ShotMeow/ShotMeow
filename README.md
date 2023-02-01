@@ -1,4 +1,4 @@
-<h1 align="center">Привет! Меня зовут <a href="https://vk.com/shotmeow" target="_blank">Данила</a> 
+<h1 align="center">Привет! Меня зовут <a href="https://t.me/shotmeow" target="_blank">Данила</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full-stack+JavaScript+Developer;UX%2FUI+Designer;Web+Technologies+Teacher;Independent+Specialist" alt="Typing SVG" /></a></p>
 <div align="center">
